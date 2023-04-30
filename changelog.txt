@@ -1,0 +1,34 @@
+Version 1.0
+
+- Created Buttons to increase or decrease the amount of products
+- Amounts are now being outputted via the console
+- The amounts' upper limit is 4 and their lower limit is 0
+
+
+
+Version 1.1
+
+- The amounts are now being displayed in the GUI rather than the console
+- There is now a selection for the Hotdog toppings and the sauces for the fries
+
+
+
+Version 1.2
+
+- Added fields & labels for the customer's name and phone number
+- The user now has to confirm the processing of his data
+
+
+
+Version 2.0
+
+- Added support for databases, to actually store the order
+- Added a button to submit the order
+- Consent to processing the data now happens via checkbox, also the text is much shorter and cleaner.
+- Sauce selection for fries now happens via a text field rather than radiobuttons.
+
+
+
+Version 2.1
+
+- Added a check if the user has confirmed that the information are correct, if yes will submit, if no will display a warning message.
