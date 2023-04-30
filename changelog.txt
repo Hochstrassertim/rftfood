@@ -32,3 +32,10 @@ Version 2.0
 Version 2.1
 
 - Added a check if the user has confirmed that the information are correct, if yes will submit, if no will display a warning message.
+
+
+
+Version 2.2
+
+- Added a configuration file to change the upper/lower limits for the amounts of hotdogs and fries
+- Database connection details can now also be changed using the configuration file
