@@ -5,6 +5,6 @@ fries_upper=4
 fries_lower=0
 
 username=Admin
-passwd=Brachi 15
+passwd=password1234
 hostname=localhost
 database=orders
