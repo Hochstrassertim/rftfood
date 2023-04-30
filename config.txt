@@ -1,0 +1,10 @@
+hotdog_upper=4
+hotdog_lower=0
+
+fries_upper=4
+fries_lower=0
+
+username=Admin
+passwd=Brachi 15
+hostname=localhost
+database=orders
